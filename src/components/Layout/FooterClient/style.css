@@ -1,0 +1,15 @@
+.footer-style {
+    background-color: #444;
+    color: #a3a3a3;
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+    width: 100%;
+    margin-top: 40px;
+    padding: 20px 0px;
+
+}
+.font-style{
+    font-size: 30px;
+    margin-left: 10px;
+}

@@ -1,0 +1,20 @@
+.card-style-link:hover {
+    transform: translateY(-5px) !important;
+}
+
+.link-product:hover {
+    text-decoration: none !important;
+    color: black;
+}
+
+.link-product p {
+    margin-top: 0;
+    margin-bottom: 3px;
+    color: #6d6869;
+}
+
+p.price {
+    font-weight: bold;
+    font-family: 'Audiowide', cursive !important;
+    color: #D5194C;
+}

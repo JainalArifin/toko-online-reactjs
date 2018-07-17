@@ -1,0 +1,13 @@
+.icon-a{
+    text-decoration: none !important;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+img.img-fitur:hover {
+    transform: translateY(-4px) !important;
+}
+
+img.img-fitur{
+    width: 50px;
+}
